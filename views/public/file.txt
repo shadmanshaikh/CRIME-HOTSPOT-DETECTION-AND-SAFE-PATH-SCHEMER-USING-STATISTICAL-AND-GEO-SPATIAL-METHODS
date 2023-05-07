@@ -1,0 +1,2 @@
+<% include partials/header %>
+hello this is testing the server

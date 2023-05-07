@@ -1,0 +1,13 @@
+we recreated the heatmap using a new dataset paticular to an area [ delhi dataset]
+we used streamlit and leaflet  python libraries to create the heatmap 
+we used google map api to create a geographical map to locate the src and dst 
+this map was embbed using javascript while calling the api using a special key access using google cloud console
+the delhi dataset to implement our design model which has 14 features related to various crimes rate around the area
+created login and signup page for saving user data for the searches
+used kmeans algorithm to check the concentration of crime rate and visualized it using dataset
+Legend used to specify : 
+- Green Ticks: Safest
+- Smiley: Moderately safe
+- Exclamation mark: Be careful
+- Skull: Moderately dangerous
+- Cross: Extremely dangerous
